@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 [gerrit]
 host=code.kurento.org
 port=12345
 project=kurento-room
 defaultbranch=master
+=======
+[gerrit]
+host=code.kurento.org
+port=12345
+project=kurento-room
+defaultbranch=master
+>>>>>>> initial commit

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 target
 .classpath
@@ -13,3 +14,20 @@ nbactions.xml
 *bower_components/
 .externalToolBuilders
 *bin/
+=======
+*~
+target
+.classpath
+.project
+.settings
+*orig
+.springBeans
+*tmp/
+*backup
+*Backup
+log.xml
+nbactions.xml
+*bower_components/
+.externalToolBuilders
+*bin/
+>>>>>>> initial commit
